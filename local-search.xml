@@ -5,8 +5,8 @@
   
   <entry>
     <title></title>
-    <link href="/2022/06/21/first/"/>
-    <url>/2022/06/21/first/</url>
+    <link href="/2022/06/21/Welcome/"/>
+    <url>/2022/06/21/Welcome/</url>
     
     <content type="html"><![CDATA[<p>#Welcome<br>Thank you for choosing <strong>Typora</strong>.This document will help you start Typora.Please note that Typora for Windows is still in beata phase,so this is document may be updated in future version-ups.</p><p>##LivePreview</p><p><strong>Typora</strong> use the feature:<em>Live Preview</em>,meaning that you could see these inline styles after you finish typing,and see block styles when you type or after you press <code>Enter</code> key or focus to another paragraph.Just try to type some markdown in typora,and you would see how it works.</p><p><strong>Note</strong>:Markdown tags for inline styles, such as <code>**</code> will be hidden or displayed smartly.Markdown tags for block level such as <code>###</code> or <code>- [x]</code></p>]]></content>
     
