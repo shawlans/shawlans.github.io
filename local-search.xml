@@ -4,37 +4,11 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2022/06/21/Welcome/"/>
-    <url>/2022/06/21/Welcome/</url>
+    <title>Welcome to my blog</title>
+    <link href="/2022/06/21/Welcome-to-my-blog/"/>
+    <url>/2022/06/21/Welcome-to-my-blog/</url>
     
-    <content type="html"><![CDATA[<p>#Welcome<br>Thank you for choosing <strong>Typora</strong>.This document will help you start Typora.Please note that Typora for Windows is still in beata phase,so this is document may be updated in future version-ups.</p><p>##LivePreview</p><p><strong>Typora</strong> use the feature:<em>Live Preview</em>,meaning that you could see these inline styles after you finish typing,and see block styles when you type or after you press <code>Enter</code> key or focus to another paragraph.Just try to type some markdown in typora,and you would see how it works.</p><p><strong>Note</strong>:Markdown tags for inline styles, such as <code>**</code> will be hidden or displayed smartly.Markdown tags for block level such as <code>###</code> or <code>- [x]</code></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>搭建个人博客</title>
-    <link href="/2022/06/21/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
-    <url>/2022/06/21/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    
-    <content type="html"><![CDATA[<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><h2 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h2><h3 id="标题三"><a href="#标题三" class="headerlink" title="标题三"></a>标题三</h3><h4 id="标题四"><a href="#标题四" class="headerlink" title="标题四"></a>标题四</h4><h5 id="标题五"><a href="#标题五" class="headerlink" title="标题五"></a>标题五</h5><p><strong>这是加粗</strong></p><p><em>这是斜线</em></p><p><del>这是横线</del></p><ul><li>无序列表</li><li>无序列表</li></ul><ol><li>有序列表1</li><li>有序列表2</li></ol><p>‘内嵌代码’</p><hr><h2 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h2><blockquote><p>引用</p></blockquote>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2022/06/20/hello-world/"/>
-    <url>/2022/06/20/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Shawlans-Daily-Plan-2021-12"><a href="#Shawlans-Daily-Plan-2021-12" class="headerlink" title="Shawlans Daily Plan 2021.12"></a>Shawlans Daily Plan 2021.12</h1><h2 id="Activity-Inventory"><a href="#Activity-Inventory" class="headerlink" title="Activity Inventory"></a>Activity Inventory</h2><table><thead><tr><th>id</th><th>Item</th><th>DDL</th><th>Estimating</th><th>Important</th><th>Emergency</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><h2 id="Records"><a href="#Records" class="headerlink" title="Records"></a>Records</h2><table><thead><tr><th>TaskId</th><th>Start time</th><th>TO DO</th><th>Status</th><th>Estimating</th><th>Actual</th><th>Comment</th><th>Category</th><th>Date</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><h2 id="Date"><a href="#Date" class="headerlink" title="Date:"></a>Date:</h2><h3 id="Todo-today"><a href="#Todo-today" class="headerlink" title="Todo today"></a>Todo today</h3><table><thead><tr><th>TaskId</th><th>Start time</th><th>TO DO</th><th>Status</th><th>Estimating</th><th>Tracking</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><table><thead><tr><th>TaskId</th><th>Start time</th><th>Emergency issue</th><th>Status</th><th>Tracking</th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table><h2 id="Tech-details"><a href="#Tech-details" class="headerlink" title="Tech details"></a>Tech details</h2><ul><li>Shawlans: 25 mins</li><li>Short break: 3-5 mins</li><li>Long break for 4P: 15-30 mins</li><li>Tracking:<ul><li>interruption cause 0 pomodoro</li><li>done within 5 mins as 0 pomodoro</li><li>done over 5 mins then reviewing</li><li>X for 1 clean pomodoro</li><li>I for an internal interruption</li><li>O for the outside interruption</li></ul></li><li>Interruption<ul><li>new issue to Activity Inventory&#x2F;TODO&#x2F;Emergency issue</li><li>add a task and ask for waiting util one Shawlans done</li><li>handle it first then add to Emergency issue with DONE and input Tracking</li></ul></li><li>Estimating<ul><li>need more: if a task need more time, estimating again with “+n”</li><li>less: if a tast done within estimation, noted with “-n”</li></ul></li><li>Status<ul><li>TD: Todo</li><li>W: Working</li><li>D: Done</li><li>C: Cancel</li></ul></li><li>Category for records<ul><li>DEV: developing</li><li>LR: learning</li><li>MT: meeting</li><li>CM: communication</li><li>OT: others</li><li>RD: reading sth about 3C</li><li>WT: writing sth about 3C</li></ul></li></ul>]]></content>
     
     
     
